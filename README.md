@@ -33,11 +33,11 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone https://github.com/winsuekos/code-pos.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/winsuekos/code-pos/archive/refs/heads/main.zip)
 
 ### Setup Aplikasi
 Jalankan perintah 
